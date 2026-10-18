@@ -65,6 +65,8 @@ The final model used random resized cropping, horizontal flipping, colour jitter
 
 The final model achieved a **Kaggle leaderboard score of 0.95110 (95.11%)** and was selected for the official assignment submission.
 
+<img width="1243" height="135" alt="image" src="https://github.com/user-attachments/assets/f4981416-8da0-4df0-b9cb-e44111060cb9" />
+
 ## 4. Additional Experiment — Perception Encoder
 
 An additional experiment explored the PE-Core-G14-448 vision transformer with style-aware data augmentation.
