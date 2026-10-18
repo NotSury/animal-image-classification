@@ -65,7 +65,7 @@ The final model used random resized cropping, horizontal flipping, colour jitter
 
 The final model achieved a **Kaggle leaderboard score of 0.95110 (95.11%)** and was selected for the official assignment submission.
 
-<img width="1243" height="135" alt="image" src="https://github.com/user-attachments/assets/f4981416-8da0-4df0-b9cb-e44111060cb9" />
+<img width="1179" height="90" alt="image" src="https://github.com/user-attachments/assets/676f2819-0fe0-4947-a1ef-f091b89c27b0" />
 
 ## 4. Additional Experiment — Perception Encoder
 
@@ -102,6 +102,8 @@ The experiment achieved a **Kaggle score of 0.96927 (96.927%)**, higher than the
 However, this model was explored separately and was **not used in the official assignment submission or report**.
 
 Because the model architecture and training approach differed from the official submission, this result should not be interpreted as the effect of augmentation alone.
+
+<img width="1243" height="135" alt="image" src="https://github.com/user-attachments/assets/ede83819-fa0a-4cab-9a17-b35da239e30c" />
 
 ## 5. Other Experiments
 
